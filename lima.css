@@ -1,0 +1,17 @@
+p{
+	color: white;
+	font-family: calibri;
+}
+font{
+	color: red;
+	font-family:century ;
+}
+body{
+	background: url('gambar1.jpg') ;
+}
+.satu{
+	background-color: #70d6eb;
+}
+.dua{
+	background-color: #42d696;
+}

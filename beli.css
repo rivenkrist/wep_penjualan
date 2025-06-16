@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #28104c;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a:hover {
+    background-color: red;
+    color: yellow;
+}
+nav ul li a:link {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+header{
+    background-color: black;
+    color: white;
+}
+nav{
+    background-color: lightblue;
+}
+.satu {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    color: #fff;
+    
+    padding: 100px 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    
+    bottom: 0;
+    width: 100%;
+    margin-top: 10px;
+}

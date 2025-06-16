@@ -1,0 +1,21 @@
+.satu:hover{
+	color: green;
+}
+.dua:hover{
+	color: red;
+}
+.satu:active{
+	color: blue;
+}
+.tiga:hover{
+	background-color: red;
+	color: white;
+		font-family: algerian;
+}
+.tiga:active{
+	background-color: blue;
+	color: yellow;
+}
+.NIK{
+	color: red;
+}

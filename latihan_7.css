@@ -1,0 +1,29 @@
+.satu{
+	background-color: #43dadf;
+	margin-top: 70px;
+	margin-left: 500px;
+	margin-bottom: 70px;
+	padding-left: 30px;
+	padding-right: 70px;
+	padding-bottom: 30px;
+	font-family: calibri;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+}
+.dua{
+	background-color: #e51b92;
+	margin: 0px 500px 90px 60px;
+	padding-bottom: 30px;
+}
+.tiga{
+	background-color: #37d35f;
+}
+.empat{
+	background-color: #e3b13a;
+	margin: 0px 300px 40px 70px;
+
+}
+.lima{
+	background-color: #1be4e6;
+}
